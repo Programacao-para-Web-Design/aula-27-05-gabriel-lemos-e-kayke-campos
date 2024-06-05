@@ -1,0 +1,47 @@
+
+<!DOCTYPE HTML>
+<html lang = "pt-br">
+	<head>
+		<meta charset = "utf-8">
+		<link rel="stylesheet" type="text/css" href="Aula 27-05css"/>
+	</head>
+	<body>
+		<header>
+			<h1>CEEMTI BAIXO GUANDU</h1>
+				<img src="Logo Escola.png">
+			<nav>
+				<ul>
+					<li>
+						<a href="#article1">Article</a>
+					</li>
+					<li>
+						<a href="#article2">Article</a>
+					</li>
+					<li>
+						<a href="#aside">Aside</a>
+					</li>
+					<li>
+						<a href="aside">Aside</a>
+					</li>
+				</ul>
+			</nav>
+		</header>
+		<main>
+			<section>
+				<article id= "article1">
+					<h1> Article </h1>
+				</article>
+			
+				<article id= "article2">
+					<aside id= "aside"> Aside </aside>
+					<h1> Article </h1>
+				</article>
+			</section>
+			<aside> Aside </aside>
+		</main>
+
+		<footer>
+			<p>Alana</p>
+		</footer>
+	</body>
+<html>
