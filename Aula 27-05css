@@ -1,0 +1,48 @@
+
+header{
+  text-align: center;
+  font-size: 18pt;
+}
+nav{
+  box-shadow: 20px 20px 10px;
+  text-align: center;
+  font-size: 18pt;
+  font-weight: bold;
+}
+footer{
+  text-align: center;
+  font-size: 16pt;
+  font-weight: italic;
+}
+#article1{
+  color: purple;
+  font-size: 17pt;
+  font-weight: bold;
+  text-align: center;
+}
+#article2{
+  color: pink;
+  font-size: 17pt;
+  font-weight: bold;
+  text-align: center;
+}
+#aside{
+  color: yellow;
+  font-size: 17pt;
+  font-weight: bold;
+  text-align: center;
+  width: 15%; 
+  height: 100%; 
+  float: right; 
+  position: fixed; 
+}
+aside{
+  color: orange;
+  font-size: 17pt;
+  font-weight: bold;
+  text-align: center;
+  width: 15%; 
+  height: 100%; 
+  float: right; 
+  position: fixed;
+}
