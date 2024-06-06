@@ -1,48 +1,59 @@
-
-header{
-  text-align: center;
-  font-size: 18pt;
-}
-nav{
-  box-shadow: 20px 20px 10px;
-  text-align: center;
-  font-size: 18pt;
-  font-weight: bold;
-}
-footer{
-  text-align: center;
-  font-size: 16pt;
-  font-weight: italic;
-}
-#article1{
-  color: purple;
-  font-size: 17pt;
-  font-weight: bold;
-  text-align: center;
-}
-#article2{
-  color: blue;
-  font-size: 17pt;
-  font-weight: bold;
-  text-align: center;
-}
-#aside{
-  color: yellow;
-  font-size: 17pt;
-  font-weight: bold;
-  text-align: center;
-  width: 15%; 
-  height: 100%; 
-  float: right; 
-  position: fixed; 
-}
-aside{
-  color: orange;
-  font-size: 17pt;
-  font-weight: bold;
-  text-align: center;
-  width: 15%; 
-  height: 100%; 
-  float: right; 
-  position: fixed;
-}
+<!DOCTYPE html>
+<html lang="pt br">
+	<head>
+		<style>
+			.nome{
+				font-weight: bold;	
+				font-size: 17px;
+				text-align: center;
+				
+			}
+			#devj{
+				font-style: italic;
+				font-size: 25px;
+				text-align: center;
+			}
+			#nomees{
+				font-size: 17px;
+				text-align: center;
+			}
+			#Body{
+				background-color: blue;
+				display: flex;
+				justify-content: space-around;
+			}
+			#Header{
+				background-color: red; 
+			}
+			#logo{
+				background-color: white;
+			#Nav{
+				background-color: yellow;
+				box-shadow: 7px 7px 9px 0px black;
+			}
+			#man{
+				background-color: green; 
+			}
+			#ass{
+				background-color: pink; 
+			}
+			#sex{
+				background-color: purple; 
+			}
+			#art{
+				background-color: orange; 
+			}
+			#art2{
+				background-color: brown; 
+			}
+			#ass2{
+				background-color: gray; 
+			}
+			#fot{
+				background-color: maroon; 
+			}
+		</style>
+	</head>
+	<body>
+	</body>
+</html>
