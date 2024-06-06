@@ -23,16 +23,16 @@
 				justify-content: space-around;
 			}
 			#Header{
-				background-color: red; 
+				background-color: orange; 
 			}
 			#logo{
-				background-color: white;
+				background-color: green;
 			#Nav{
 				background-color: yellow;
 				box-shadow: 7px 7px 9px 0px black;
 			}
 			#man{
-				background-color: green; 
+				background-color: white; 
 			}
 			#ass{
 				background-color: pink; 
@@ -41,13 +41,13 @@
 				background-color: purple; 
 			}
 			#art{
-				background-color: orange; 
+				background-color: red; 
 			}
 			#art2{
-				background-color: brown; 
+				background-color: gray; 
 			}
 			#ass2{
-				background-color: gray; 
+				background-color: brown; 
 			}
 			#fot{
 				background-color: maroon; 
