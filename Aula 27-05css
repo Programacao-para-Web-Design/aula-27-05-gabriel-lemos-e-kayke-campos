@@ -21,7 +21,7 @@ footer{
   text-align: center;
 }
 #article2{
-  color: pink;
+  color: night blue;
   font-size: 17pt;
   font-weight: bold;
   text-align: center;
