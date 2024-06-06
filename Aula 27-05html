@@ -31,7 +31,6 @@
 				<article id= "article1">
 					<h1> Article </h1>
 				</article>
-			
 				<article id= "article2">
 					<aside id= "aside"> Aside </aside>
 					<h1> Article </h1>
@@ -39,9 +38,8 @@
 			</section>
 			<aside> Aside </aside>
 		</main>
-
 		<footer>
-			<p>Alana</p>
+			<p>Kayke e Gabriel L.</p>
 		</footer>
 	</body>
 <html>
