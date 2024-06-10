@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 header{
-	background-color: red; 
+	background-color: grey11; 
 	color: white;
 	justify-content: center;
 	align-items: center;
@@ -12,7 +12,7 @@ header{
 }
 nav{
 	display: flex;
-	background-color: yellow;
+	background-color: grey21;
 	box-shadow: 7px 7px 9px 0px black;
 	justify-content: center;
 	align-items: center;				
@@ -44,19 +44,19 @@ li{
 	color: white;
 }
 #Body{
-	background-color: blue; 
+	background-color: grey31; 
 }
 			
 main{
 	margin-top: 3%;
 	display: flex;
-	background-color: green; 
+	background-color: DimGray; 
 	height: 60vh;
 	width: 100%;
 }
 #quad4{
 	margin-top: 10px;
-	background-color: pink;
+	background-color: Gray;
 	width: 21%; 
 	height: 90%;
 }
@@ -66,19 +66,19 @@ main{
 	display: block;
 	width: 78%;
 	height: 90%;
-	background-color: purple; 
+	background-color: DarkGray; 
 }
 #quad{
 	margin: 20px 10px 10px 20px; 
 	width: 97%;
 	height: 45%;
-	background-color: orange; 
+	background-color: Silver; 
 }
 #quad7{
 	margin: 10px 10px 10px 20px; 
 	width: 97%;
 	height: 45%;
-	background-color: brown; 
+	background-color: LightGrey; 
 }
 #quad6{
 	margin-left: 69.5%;
@@ -86,7 +86,7 @@ main{
 	top: 150px;
 	width: 30%;
 	height: 97%;
-	background-color: gray; 
+	background-color: Gainsboro; 
 }
 
 											/* footer*/
