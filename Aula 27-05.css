@@ -53,13 +53,13 @@ main{
 	height: 60vh;
 	width: 100%;
 }
-#ass{
+#quad4{
 	margin-top: 10px;
 	background-color: pink;
 	width: 21%; 
 	height: 90%;
 }
-#sex{
+#quad5{
 	margin-top: 10px;
 	margin-right: 10px;
 	display: block;
@@ -67,19 +67,19 @@ main{
 	height: 90%;
 	background-color: purple; 
 }
-#art{
+#quad{
 	margin: 20px 10px 10px 20px; 
 	width: 97%;
 	height: 45%;
 	background-color: orange; 
 }
-#art2{
+#quad7{
 	margin: 10px 10px 10px 20px; 
 	width: 97%;
 	height: 45%;
 	background-color: brown; 
 }
-#ass2{
+#quad6{
 	margin-left: 69.5%;
 	border: solid 3px brown;
 	top: 150px;
