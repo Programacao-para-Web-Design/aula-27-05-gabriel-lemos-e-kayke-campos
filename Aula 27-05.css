@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 header{
 	background-color: grey11; 
-	color: white;
+	color: DarkSlateGray;
 	justify-content: center;
 	align-items: center;
 	text-align: center;
 }
 #logo{
 	background-color: white;
-	margin-left: 600px;
+	margin-left: 650px;
 }
 nav{
 	display: flex;
@@ -92,6 +92,6 @@ main{
 											/* footer*/
 
 footer{
-	background-color: rgb(15, 224, 197); 
+	background-color: SlateGray; 
 	width: 100%;
 }
